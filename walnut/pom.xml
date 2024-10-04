@@ -35,7 +35,7 @@
         <junit.version>4.12</junit.version>
         <version.quartz>2.3.2</version.quartz>
         <guice.version>4.2.2</guice.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <jackson.version>2.10.4</jackson.version>
     </properties>
 
